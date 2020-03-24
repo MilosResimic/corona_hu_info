@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "This is a network of retweets based on tweets published between 2020/3/16 7:53:00 AM and 2020/3/24 12:29:00 PM, containing coronavirus+hungary in the tweet, within 300km range from lat and long of Hungary. The network consists of 669 nodes and 732 edges. Nodes are sized based on indegree (the more retweets, the bigger the node) and colored based on modularity class (community that they belong to, based on intensity of interaction)",
+    "more": "This is a network of retweets based on tweets published between 2020/3/16 7:53:00 AM and 2020/3/24 12:29:00 PM, containing coronavirus+hungary in the tweet, within 300km range from lat and long of Hungary. The network consists of 669 nodes and 732 edges. Nodes are sized based on indegree (the more retweets, the bigger the node) and colored based on modularity class (community that they belong to, based on intensity of interaction).",
     "intro": "",
     "title": "Twitterverse around covid-19 involving Hungary"
   },
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "straight",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
